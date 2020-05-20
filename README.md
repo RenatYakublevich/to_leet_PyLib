@@ -2,7 +2,7 @@
 library for convertaion default text to leet style
 
 # Install #
-import to_leet 
+>import to_leet 
 
 # Example #
 >lonely star ->loN31Y sT4r
